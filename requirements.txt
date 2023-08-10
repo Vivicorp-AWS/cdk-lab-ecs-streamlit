@@ -1,2 +1,15 @@
-aws-cdk-lib==2.87.0
-constructs>=10.0.0,<11.0.0
+attrs==23.1.0 ; python_version >= "3.10" and python_version < "4.0"
+aws-cdk-asset-awscli-v1==2.2.200 ; python_version >= "3.10" and python_version < "4.0"
+aws-cdk-asset-kubectl-v20==2.1.2 ; python_version >= "3.10" and python_version < "4.0"
+aws-cdk-asset-node-proxy-agent-v5==2.0.165 ; python_version >= "3.10" and python_version < "4.0"
+aws-cdk-lib==2.87.0 ; python_version >= "3.10" and python_version < "4.0"
+cattrs==23.1.2 ; python_version >= "3.10" and python_version < "4.0"
+constructs==10.2.69 ; python_version >= "3.10" and python_version < "4.0"
+exceptiongroup==1.1.2 ; python_version >= "3.10" and python_version < "3.11"
+importlib-resources==6.0.0 ; python_version >= "3.10" and python_version < "4.0"
+jsii==1.85.0 ; python_version >= "3.10" and python_version < "4.0"
+publication==0.0.3 ; python_version >= "3.10" and python_version < "4.0"
+python-dateutil==2.8.2 ; python_version >= "3.10" and python_version < "4.0"
+six==1.16.0 ; python_version >= "3.10" and python_version < "4.0"
+typeguard==2.13.3 ; python_version >= "3.10" and python_version < "4.0"
+typing-extensions==4.7.1 ; python_version >= "3.10" and python_version < "4.0"

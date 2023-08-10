@@ -1,5 +1,4 @@
-
-# Welcome to your CDK Python project!
+# (WIP) CDK Lab for Streamlit Deployment on ECS
 
 This is a blank project for CDK development with Python.
 
